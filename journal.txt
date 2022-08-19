@@ -1,4 +1,7 @@
 # Django learning journal
 Start!
+
 19.08.2022 
 Read Django overview
+Installed Django 4.1 with pip
+Read "Writing your first Django app, part 1"
