@@ -1,0 +1,3 @@
+# Django learning journal
+19.08.2022 
+Read Django overview
