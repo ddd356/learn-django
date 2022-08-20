@@ -8,3 +8,4 @@ Read "Writing your first Django app, part 1"
 
 20.08.2022 
 Read "Writing your first Django app, part 2"
+Read "Writing your first Django app, part 3", due p. "Write views that actually do something"
