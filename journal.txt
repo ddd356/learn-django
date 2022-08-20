@@ -5,3 +5,6 @@ Start!
 Read Django overview
 Installed Django 4.1 with pip
 Read "Writing your first Django app, part 1"
+
+20.08.2022 
+Read "Writing your first Django app, part 2"
