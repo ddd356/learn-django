@@ -12,3 +12,6 @@ Read "Writing your first Django app, part 3", due p. "Write views that actually 
 
 21.08.2022 
 Read "Writing your first Django app, part 3", due p. "A shortcut: get_object_or_404()"
+
+22.08.2022 
+Read "Writing your first Django app, part 3"
