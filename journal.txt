@@ -15,3 +15,7 @@ Read "Writing your first Django app, part 3", due p. "A shortcut: get_object_or_
 
 22.08.2022 
 Read "Writing your first Django app, part 3"
+Read "Writing your first Django app, part 4"
+
+23.08.2022
+Read "Writing your first Django app, part 5", due p. "Test a view"
