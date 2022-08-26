@@ -19,3 +19,14 @@ Read "Writing your first Django app, part 4"
 
 23.08.2022
 Read "Writing your first Django app, part 5", due p. "Test a view"
+
+24.08.2022 
+Read "Writing your first Django app, part 5"
+
+25.08.2022 
+Read "Writing your first Django app, part 6"
+
+26.08.2022 
+Read "Decorators in Python"
+Read "Writing your first Django app, part 7"
+
